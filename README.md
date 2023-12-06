@@ -21,7 +21,53 @@ byjus gate preparation - telegram group for materials
 
 ![IMG_20231205_143310](https://github.com/Gunasekaran-143/GATE_PREPARATION/assets/134137559/41cb0f98-45a7-49ad-8039-3150ea27bd86)
 
+# Gate YouTube channels for cs & IT:
 
+✓Geeksforgeeks cs and IT - youtube channel
+✓ Made easy youtube channel
+✓ NPTEL YouTube Channel
+
+
+✓ Jenny's lecture for DSA
+ Neso Academy:- Data Structures
+ Neso Academy:- C Programming
+
+Tower of Hanoi
+Tail Recursion
+
+✓Algorithms:
+Theory of Computation
+Videos
+Neso Academy:- Theory of Computation
+
+✓Compiler Design:
+
+Videos
+Runtime Environment
+Gate Smashers:- Compiler Design
+
+✓Operating System:
+Code
+Scheduler with a few scheduling algorithms
+Memory Management Simultor
+Videos
+Neso Academy:- Operating Systems
+Memory Design Horizontal Scaling
+Memory Design Vertical Scaling
+
+✓Databases:
+Code
+MySQL Cheatsheet
+Videos
+Jenny's lectures-
+ER-diagram to Table 1
+ER-diagram to Table 2
+Correlated Queries
+Database Normalization
+
+✓Computer Networks:
+Videos
+Neso Academy:- Computer Networks
 
 
 
