@@ -69,6 +69,14 @@ Database Normalization
 Videos
 Neso Academy:- Computer Networks
 
+# Gate reference books and handbooks:
+
+These are the books I'm planning to buy for both placements and Gate preparations: (amazon + flipkart)
+
+![Screenshot_20231206-193928](https://github.com/Gunasekaran-143/GATE_PREPARATION/assets/134137559/438ceb1b-92f2-46ff-9696-0d6c3becef9b)
+![Screenshot_20231206-193936](https://github.com/Gunasekaran-143/GATE_PREPARATION/assets/134137559/dfd096c5-84d0-4eca-a1dd-20b4dfd176f1)
+![Screenshot_20231206-193946](https://github.com/Gunasekaran-143/GATE_PREPARATION/assets/134137559/c5961e46-4212-47cd-805a-c819c1e999a8)
+![Screenshot_20231206-194009](https://github.com/Gunasekaran-143/GATE_PREPARATION/assets/134137559/19fca2a0-f251-4b2d-9be1-a7b00c0e6c6f)
 
 
 
