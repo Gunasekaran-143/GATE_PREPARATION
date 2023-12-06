@@ -79,4 +79,9 @@ These are the books I'm planning to buy for both placements and Gate preparation
 ![Screenshot_20231206-194009](https://github.com/Gunasekaran-143/GATE_PREPARATION/assets/134137559/19fca2a0-f251-4b2d-9be1-a7b00c0e6c6f)
 
 
+# My telegram channel for materials:
+✓Everything here:
+https://t.me/gpvibesofficialtelegram_143
 
+materials only:
+https://t.me/rbrGate2024
